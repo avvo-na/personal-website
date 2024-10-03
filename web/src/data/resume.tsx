@@ -74,8 +74,8 @@ export const DATA = {
       location: "Tempe, AZ",
       title: "Mobile Engineer Internship",
       logoUrl: "/privatemarkets.png",
-      start: "Jan 2021",
-      end: "Apr 2021",
+      start: "Jan 2024",
+      end: "Jun 2024",
       description:
         "Implemented a custom Kubernetes controller in Go to automate the deployment of MySQL and ProxySQL custom resources in order to enable 2,000+ internal developers to instantly deploy their app databases to production. Wrote several scripts in Go to automate MySQL database failovers while maintaining master-slave replication topologies and keeping Zookeeper nodes consistent with changes.",
     },
